@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação de Textos</title>
+    <style>
+        mark{
+            background-color: limegreen;
+        }
+    </style>
+</head>
+<body>
+    <h1>Principais formatações</h1>
+    <h2>Negrito / Destaque</h2>
+    <p>Nesta frase temos um <b>termo em negrito</b> usando a tag B (não semântica).</p>
+    <p>Nesta frase, tenho um <strong>termo em destaque</strong> usando a tag STRONG (semântica).</p>
+    <h2>Itálico / Ênfase</h2>
+    <p>Nesta frase, temos um <i>termo em itálico</i> usando a tag I (não semântica).</p>
+    <p>Nesta frase, temos um <em>termo em ênfase</em> usando a tag EM (semântico).</p>
+    <h2>Texto marcado</h2>
+    <p>Podemos criar também <mark style ="background-color: pink;">um texto marcado</mark> usando a tag MARK.</p>
+    <p>E no outro parágrado, temos <mark>outro texto marcado</mark> no final.</p>
+    <h2>Texto grande e pequeno</h2>
+    <p>Estamos criando um <big>texto grande</big> e um <small>texto pequeno</small> nesse parágrafo.</p>
+    <h2>Texto deletado</h2>
+    <p>Podemos marcar <del>um texto como excluído</del> para indicar que ele deve ser lido, mas não considerado</p>
+    <h2>Texto inserido</h2>
+    <p>Podemos marcar <ins>um texto como inserido</ins> para dar ênfase e indicar que ele foi adicionado depois.</p>
+    <p>Existe também o <u>sublinhado</u> com a tag U (não semântico).</p>
+    <h2>Texto sobreescrito</h2>
+    <p>Para inserir coisas do tipo x<sup>20</sup> + 3</p>
+    <h2>Texto subescrito</h2>
+    <p>Para inserir coisas do tipo H<sub>2</sub>O</p>
+    <h2>Texto código</h2>
+    <p>Segue o código, usando apenas a tag CODE:
+    <code>
+    num = int(input('Digite um número'))
+    if num % 2 == 0:
+        printf(f'O número {num} é par')
+    else:
+        printf(f'O número {num} é ímpar')
+    print('FIM DO PROGRAMA')
+    </code>
+    </p>
+    <p>Segue abaixo o código, usando as tags PRE e CODE:
+    <pre><code style = "background-color: antiquewhite;">   num = int(input('Digite um número'))
+    if num % 2 == 0:
+        printf(f'O número {num} é par')
+    else:
+        printf(f'O número {num} é ímpar')
+    print('FIM DO PROGRAMA') </code></pre>
+    </p>
+    <h2>Texto citação</h2>
+    <p>A frase a seguir é uma citação do astrônomo Carl Sagan <q>A ciência é muito mais que um corpo de conhecimentos. É uma maneira de pensar</q></p>
+    <p>O trecho a seguir foi retirado do livro Carl Sagan: A Life<blockquote cite="https://pt.wikipedia.org/wiki/Carl_Sagan#cite_note-Keay-11">
+        Claramente, o homem realizou maravilhas de um modo que eu nunca tinha imaginado. Como poderia um tom tornar-se uma imagem e luz tornar-se um ruído?
+    </blockquote></p>
+    <h2>Texto abreviação</h2>
+    <p>Eu estou estudando <abbr title="Hyper Text Markup Language">HTML</abbr> para criar sites.</p>
+    <h2>Texto invertido</h2>
+    <p>Podemos escrver o texto da <bdo dir="rtl">direita para a esquerda</bdo> ou da <bdo dir="ltr">esquerda para a direita</bdo>.</p>
+</body>
+</html>

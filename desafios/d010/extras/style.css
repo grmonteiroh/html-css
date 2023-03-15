@@ -1,0 +1,101 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Android';
+    src: url(fontes/idroid.otf);
+}
+
+body{
+    background-color: #84e1ad;
+    margin: 0px;
+    padding: 0px;
+}
+
+body > main{
+    padding: 20px 10px 20px 10px;
+    margin: 0px 40px 0px 40px;
+}
+
+body > header{
+    color: white;
+    background-color: darkgreen;
+    text-align: center;
+    box-shadow: 1px 1px 1px black;
+    padding: 0.1px;
+    margin-bottom: 1px;
+}
+
+header > nav{
+    text-align: left;
+}
+
+nav > a{
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    margin: auto;
+    background-color: white;
+}
+
+main >  h2{
+    font-family: 'Android';
+    color: darkgreen;
+}
+
+main > h3{
+    font-family: 'Android';
+    color: darkgreen;
+    background-color: #84e1ad;
+}
+
+main > p{
+    text-align: justify;
+    text-indent: 30px;
+}
+
+p > a{
+    color: darkgreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.symbol::after{
+    content: " 🔗";
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+iframe{
+    margin: auto;
+    display: block;
+}
+
+.sidedireita{
+    display: inline-block;
+    float: right;
+    text-align: justify;
+    width: 50%;
+}
+
+.sideesquerda{
+    display: inline-block;
+    float: left;
+    text-align: justify;
+    width: 50%;
+}
+
+footer{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 0px;
+}
+
+footer > p{
+    margin: 0px;
+}
