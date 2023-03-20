@@ -49,12 +49,12 @@
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex020/links.html" target="_blank">Executar o exercício 020 - Links</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex020/pseudoclasse.html" target="_blank">Executar o exercício 020 - Pseudoclasse</a> </li>
    </ul>
-  <li>
+  </li>
   <li> Exercícios 21:
    <ul>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex021/caixa01.html" target="_blank">Executar o exercício 021 - Caixa 01</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex021/caixa02.html" target="_blank">Executar o exercício 021 - Caixa 02</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex021/caixa03.html" target="_blank">Executar o exercício 021 - Caixa 03</a> </li>
    </ul>
-  <li>  
+  </li>  
   <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 022 </a> </li>
