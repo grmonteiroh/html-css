@@ -96,5 +96,8 @@
    <ul>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq001/index.html" target="_blank">Executar o exercício 026 - Media Query 01</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq002/index.html" target="_blank">Executar o exercício 026 - Media Query 02</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq003/index.html" target="_blank">Executar o exercício 026 - Media Query 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq004/index.html" target="_blank">Executar o exercício 026 - Media Query 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq005/index.html" target="_blank">Executar o exercício 026 - Media Query 05</a> </li>
    </ul>
   </li>
