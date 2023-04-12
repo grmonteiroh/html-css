@@ -58,6 +58,40 @@
    </ul>
   </li>  
   <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 022 </a> </li>
+  <li> Exercícios 23:
+   <ul>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela1.html" target="_blank">Executar o exercício 023 - Tabela 01</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela2.html" target="_blank">Executar o exercício 023 - Tabela 02</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela3.html" target="_blank">Executar o exercício 023 - Tabela 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela4.html" target="_blank">Executar o exercício 023 - Tabela 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela5.html" target="_blank">Executar o exercício 023 - Tabela 05</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex023/tabela6.html" target="_blank">Executar o exercício 023 - Tabela 06</a> </li>
+   </ul>
+  </li>
+  <li> Exercícios 24:
+   <ul>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe001.html" target="_blank">Executar o exercício 024 - Iframe 01</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe002.html" target="_blank">Executar o exercício 024 - Iframe 02</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe003.html" target="_blank">Executar o exercício 024 - Iframe 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe004.html" target="_blank">Executar o exercício 024 - Iframe 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe005.html" target="_blank">Executar o exercício 024 - Iframe 05</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex024/iframe006.html" target="_blank">Executar o exercício 024 - Iframe 06</a> </li>
+   </ul>
+  </li>
+  <li> Exercícios 25:
+   <ul>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form001.html" target="_blank">Executar o exercício 025 - Form 01</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form002.html" target="_blank">Executar o exercício 025 - Form 02</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form003.html" target="_blank">Executar o exercício 025 - Form 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form004.html" target="_blank">Executar o exercício 025 - Form 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form005.html" target="_blank">Executar o exercício 025 - Form 05</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form006.html" target="_blank">Executar o exercício 025 - Form 06</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form003.html" target="_blank">Executar o exercício 025 - Form 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form004.html" target="_blank">Executar o exercício 025 - Form 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form005.html" target="_blank">Executar o exercício 025 - Form 05</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form006.html" target="_blank">Executar o exercício 025 - Form 06</a> </li>
+   </ul>
+  </li>
   <li> Exercícios 26:
    <ul>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq01/index.html" target="_blank">Executar o exercício 026 - Media Query 01</a> </li>
