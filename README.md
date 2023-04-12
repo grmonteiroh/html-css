@@ -86,15 +86,15 @@
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form004.html" target="_blank">Executar o exercício 025 - Form 04</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form005.html" target="_blank">Executar o exercício 025 - Form 05</a> </li>
     <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form006.html" target="_blank">Executar o exercício 025 - Form 06</a> </li>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form003.html" target="_blank">Executar o exercício 025 - Form 03</a> </li>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form004.html" target="_blank">Executar o exercício 025 - Form 04</a> </li>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form005.html" target="_blank">Executar o exercício 025 - Form 05</a> </li>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form006.html" target="_blank">Executar o exercício 025 - Form 06</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form007.html" target="_blank">Executar o exercício 025 - Form 03</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form008.html" target="_blank">Executar o exercício 025 - Form 04</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form009.html" target="_blank">Executar o exercício 025 - Form 05</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex025/form010.html" target="_blank">Executar o exercício 025 - Form 06</a> </li>
    </ul>
   </li>
   <li> Exercícios 26:
    <ul>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq01/index.html" target="_blank">Executar o exercício 026 - Media Query 01</a> </li>
-    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq02/index.html" target="_blank">Executar o exercício 026 - Media Query 02</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq001/index.html" target="_blank">Executar o exercício 026 - Media Query 01</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq002/index.html" target="_blank">Executar o exercício 026 - Media Query 02</a> </li>
    </ul>
   </li>
