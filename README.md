@@ -58,3 +58,9 @@
    </ul>
   </li>  
   <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex022/fundo007.html">Executar o exercício 022 </a> </li>
+  <li> Exercícios 26:
+   <ul>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq01/index.html" target="_blank">Executar o exercício 026 - Media Query 01</a> </li>
+    <li> <a href="https://grmonteiroh.github.io/html-css/exercicios/ex026/mq02/index.html" target="_blank">Executar o exercício 026 - Media Query 02</a> </li>
+   </ul>
+  </li>
