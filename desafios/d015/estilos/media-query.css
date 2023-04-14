@@ -8,3 +8,40 @@ Tablet: de 768px até 991px
 Desktop: de 992px até 1199px
 Grandes telas: acima de 1199px
 */
+
+/*
+    Paleta de Cores:
+    Rosa Escuro: #892791
+    Rosa Médio: #D252DE
+    Rosa Claro: #EBAFF0
+    Verde Escuro: #509119
+    Verde Claro: #92DE52
+*/
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+        background-image: linear-gradient(to bottom, #EBAFF0, #509119);
+        background-attachment: fixed;
+    }
+
+    body > main > section > div {
+        display: block;
+    }
+
+    body > main > section > div#imagem {
+        display: block;
+        float: left;
+    }
+    
+    body > main > section > div#formulario {
+        display: block;
+        float: right;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    body {
+        background-image: linear-gradient(to bottom, #EBAFF0, #509119);
+        background-attachment: fixed;
+    }
+}

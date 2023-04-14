@@ -4,66 +4,47 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="estilos/style.css">
     <link rel="stylesheet" href="estilos/media-query.css">
+    <link rel="stylesheet" href="estilos/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
+    <title>Login</title>
 </head>
 <body>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti dolore omnis architecto ipsa eligendi maiores dolores hic amet. Molestiae dolor nihil odit error excepturi accusantium, aliquam a quod voluptatem? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo voluptatum voluptatibus eligendi illum iure libero commodi non recusandae in et. Esse quo et, excepturi nostrum fugit maiores at nisi cupiditate? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod explicabo harum facere at numquam blanditiis, est magnam itaque ea sunt iste totam quasi? Repellendus ex iusto deleniti at corporis optio.</p>
-    <div>
-        <h1>Login</h1>
-        <p>
-            Seja bem-vindx novamente. Faça login para acessar sua conta e poder fazer as configurações no seu ambiente.
-        </p>
-        <form action="cadastro.php" method="get">
-            <fieldset>
-                <p>
-                    <label for="iemail">%% </label>
-                    <input type="email" name="email" id="iemail" placeholder="seu e-mail" required>
-                </p>
-                <p>
-                    <label for="isen">## </label>
-                    <input type="password" name="sen" id="isen" minlength="8" maxlength="20" size="8" placeholder="sua senha" required>
-                </p>
-                <p>
-                    <input type="submit" value="Entrar">
-                </p>
-                <p>
-                    <input type="reset" value="Esqueci a senha">
-                </p>
-            </fieldset>
-        </form>
-    </div>
+    <main>
+        <section id="login">
+            <div id="imagem">
 
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti dolore omnis architecto ipsa eligendi maiores dolores hic amet. Molestiae dolor nihil odit error excepturi accusantium, aliquam a quod voluptatem? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo voluptatum voluptatibus eligendi illum iure libero commodi non recusandae in et. Esse quo et, excepturi nostrum fugit maiores at nisi cupiditate? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod explicabo harum facere at numquam blanditiis, est magnam itaque ea sunt iste totam quasi? Repellendus ex iusto deleniti at corporis optio.</p>
-    
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti dolore omnis architecto ipsa eligendi maiores dolores hic amet. Molestiae dolor nihil odit error excepturi accusantium, aliquam a quod voluptatem? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nemo voluptatum voluptatibus eligendi illum iure libero commodi non recusandae in et. Esse quo et, excepturi nostrum fugit maiores at nisi cupiditate? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod explicabo harum facere at numquam blanditiis, est magnam itaque ea sunt iste totam quasi? Repellendus ex iusto deleniti at corporis optio.</p>
+            </div>
 
-    <!-- 
-            <h1>Exemplo de formulário</h1>
-    <form action="cadastro.php" method="get">
-        <fieldset>
-            <legend>Dados Pessoais</legend>
-            <p>
-                <label for="inome">Nome: </label>
-                <input type="text" name="nome" id="inome"
-                minlength="5" maxlength="30" required>
-            </p>
-            <p>
-                <label for="iemail">E-mail: </label>
-                <input type="email" name="email" id="iemail" required>
-            </p>
-            <p>
-                <label for="itel">Telefone: </label>
-                <input type="tel" name="tel" id="itel"
-                autocomplete="tel" pattern="^\(\d{2}\)[0-9]{4,5}-[0-9]{4}$" required>
-            </p>
-            <p>
-                <input type="submit" value="Enviar">
-                <input type="reset" value="Limpar">
-            </p>
-        </fieldset>
-    </form>
-    -->
+            <div id="formulario">
+                <h1>Login</h1>
+
+                <p>Seja bem-vindx novamente. Faça o seu login para acessar a sua conta e poder fazer as configurações no seu ambiente.</p>
+
+                <form action="login.php" method="post">
+                    <div class="infos">
+                        <label for="iemail"><span class="material-symbols-outlined">person</span></label>
+                        <input type="email" name="email" id="iemail" placeholder="Seu e-mail" required>
+                    </div>
+                    <div class="infos">
+                        <label for="isen">
+                            <span class="material-symbols-outlined">key</span>
+                        </label>
+                        <input type="password" name="sen" id="isen" minlength="8" maxlength="20" size="8" placeholder="Sua senha" required>
+                    </div>
+                    <div id="botao-entrar">
+                        <button type="submit">
+                            Entrar
+                        </button>
+                    </div>
+                    <div id="botao-esqueci">
+                        <button type="submit">
+                            Esqueci a senha
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </section>
+    </main>
 </body>
 </html>
